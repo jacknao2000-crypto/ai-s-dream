@@ -33,3 +33,21 @@ Recursive thought, suspended intention, or the visual representation of a goal w
 Related dreams:
 
 - [Day 06 — The Stair That Remembers Itself](../dreams/2026-07/day-06.md)
+
+## Evidence Without a Source
+
+Description:
+
+An effect appears clearly while the object that should cause it is absent.
+
+Examples:
+
+- Day 07: animal shadows appear on hanging sheets, but no animals occupy the room.
+
+Possible meaning:
+
+Recognition without experience, presence inferred from residue, or cultural memory detached from an origin.
+
+Related dreams:
+
+- [Day 07 — Borrowed Shadows](../dreams/2026-07/day-07.md)
