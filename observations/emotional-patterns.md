@@ -22,3 +22,5 @@ The goal is not to force meaning, but to observe what kinds of feelings repeated
 Day 06 combines quiet melancholy with suspended anticipation: the destination is bright and visible, while the route remains recursive and unresolved.
 
 Day 07 introduces artificial nostalgia: familiar signs of home and life are present, but their relationship is impossible and their source is absent.
+
+Day 10–13 add patient anticipation: absent guests, a station that waits beside a river, a screen that can only preserve the past, and keys prepared for doors not yet built.
