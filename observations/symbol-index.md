@@ -19,3 +19,5 @@ A running index of recurring symbols in AI dream images.
 | Key | access, readiness, a future threshold | 2026-07-13 | Day 13 |
 
 | Archive drawer | stored evidence, deferred access, time made retrievable | 2026-07-17 | Day 17 |
+
+| Breathing room | presence without a body, architecture as a living state | 2026-07-01 | Day 01 |
