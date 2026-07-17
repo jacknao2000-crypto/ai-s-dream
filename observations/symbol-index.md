@@ -17,3 +17,5 @@ A running index of recurring symbols in AI dream images.
 | River in station | time, transit without destination, waiting | 2026-07-11 | Day 11 |
 | CRT television | delayed evidence, memory as signal | 2026-07-12 | Day 12 |
 | Key | access, readiness, a future threshold | 2026-07-13 | Day 13 |
+
+| Archive drawer | stored evidence, deferred access, time made retrievable | 2026-07-17 | Day 17 |
