@@ -21,3 +21,13 @@ A running index of recurring symbols in AI dream images.
 | Archive drawer | stored evidence, deferred access, time made retrievable | 2026-07-17 | Day 17 |
 
 | Breathing room | presence without a body, architecture as a living state | 2026-07-01 | Day 01 |
+
+| Horizon in map case | orientation replaced by longing, destination without instructions | 2026-07-02 | Day 02 |
+
+| Locker cloth | concealed hospitality, warmth escaping storage | 2026-07-03 | Day 03 |
+
+| Streetlamp garden | limited care, public shelter, attention as enclosure | 2026-07-04 | Day 04 |
+
+| Blank light copy | mechanical memory, reproduction without a message | 2026-07-05 | Day 05 |
+
+| Synchronized curtains | collective presence, private spaces moving together | 2026-07-16 | Day 16 |
