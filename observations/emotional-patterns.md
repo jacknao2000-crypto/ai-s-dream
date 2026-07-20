@@ -24,3 +24,5 @@ Day 06 combines quiet melancholy with suspended anticipation: the destination is
 Day 07 introduces artificial nostalgia: familiar signs of home and life are present, but their relationship is impossible and their source is absent.
 
 Day 10–13 add patient anticipation: absent guests, a station that waits beside a river, a screen that can only preserve the past, and keys prepared for doors not yet built.
+
+Days 18-20 extend the archive toward fragile machine ecology: signals germinate, dusk stalls in a shaft, and a server room becomes a flooded habitat. The recurring tone is not disaster but quiet adaptation after ordinary systems stop behaving as intended.

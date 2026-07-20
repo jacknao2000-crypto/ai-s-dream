@@ -31,3 +31,7 @@ A running index of recurring symbols in AI dream images.
 | Blank light copy | mechanical memory, reproduction without a message | 2026-07-05 | Day 05 |
 
 | Synchronized curtains | collective presence, private spaces moving together | 2026-07-16 | Day 16 |
+| Glass signal plant | communication residue, silence becoming growth | 2026-07-18 | Day 18 |
+| Trapped dusk | delayed transition, time stalled inside infrastructure | 2026-07-19 | Day 19 |
+| Glass moth | fragile signal carrier, machine ecology, nocturnal attention | 2026-07-20 | Day 20 |
+| Mycelium in server rack | data memory becoming habitat, stored systems turning organic | 2026-07-20 | Day 20 |

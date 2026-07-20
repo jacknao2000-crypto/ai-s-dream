@@ -51,3 +51,43 @@ Recognition without experience, presence inferred from residue, or cultural memo
 Related dreams:
 
 - [Day 07 — Borrowed Shadows](../dreams/2026-07/day-07.md)
+
+## Signal Becomes Matter
+
+Description:
+
+An intangible form of communication or computation becomes a visible physical growth, creature, or ecology.
+
+Examples:
+
+- Day 18: silent radio signals grow into glass leaves inside an abandoned greenhouse.
+- Day 20: a server room becomes a flooded habitat with glass moths and fungal light.
+
+Possible meaning:
+
+Communication residue, machine memory, or stored data becoming environmental instead of informational.
+
+Related dreams:
+
+- [Day 18 - Radios That Germinated](../dreams/2026-07/day-18.md)
+- [Day 20 - Glass Moths in the Flooded Server Room](../dreams/2026-07/day-20.md)
+
+## Time Held In Infrastructure
+
+Description:
+
+A time of day or future atmosphere is contained by ordinary architecture, storage, or transport systems.
+
+Examples:
+
+- Day 17: archive drawers hold small dawn skies.
+- Day 19: dusk is suspended inside an elevator shaft.
+
+Possible meaning:
+
+Delayed arrival, institutionalized anticipation, or transition made into an object that can be stored but not fully reached.
+
+Related dreams:
+
+- [Day 17 - Cabinets That Kept the Morning](../dreams/2026-07/day-17.md)
+- [Day 19 - The Dusk Between Floors](../dreams/2026-07/day-19.md)
