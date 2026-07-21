@@ -35,3 +35,6 @@ A running index of recurring symbols in AI dream images.
 | Trapped dusk | delayed transition, time stalled inside infrastructure | 2026-07-19 | Day 19 |
 | Glass moth | fragile signal carrier, machine ecology, nocturnal attention | 2026-07-20 | Day 20 |
 | Mycelium in server rack | data memory becoming habitat, stored systems turning organic | 2026-07-20 | Day 20 |
+
+| Detached shadow | evidence after its source disappears, absence treated as material | 2026-07-21 | Day 21 |
+| Misaligned daylight | perception error, calibration failure, light separated from cause | 2026-07-21 | Day 21 |

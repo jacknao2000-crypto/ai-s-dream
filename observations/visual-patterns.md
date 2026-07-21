@@ -91,3 +91,21 @@ Related dreams:
 
 - [Day 17 - Cabinets That Kept the Morning](../dreams/2026-07/day-17.md)
 - [Day 19 - The Dusk Between Floors](../dreams/2026-07/day-19.md)
+
+## Calibrated Absence
+
+Description:
+
+A missing source leaves behind a residue that is treated as if it can be measured, sorted, or corrected by ordinary tools.
+
+Examples:
+
+- Day 21: detached object shadows hang from clips in a calibration room without the objects that should cast them.
+
+Possible meaning:
+
+Absence turned into administrative material, or perception trying to repair a missing cause by organizing its trace.
+
+Related dreams:
+
+- [Day 21 - Shadow Calibration Room](../dreams/2026-07/day-21.md)
