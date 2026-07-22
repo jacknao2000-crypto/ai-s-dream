@@ -28,3 +28,5 @@ Day 10–13 add patient anticipation: absent guests, a station that waits beside
 Days 18-20 extend the archive toward fragile machine ecology: signals germinate, dusk stalls in a shaft, and a server room becomes a flooded habitat. The recurring tone is not disaster but quiet adaptation after ordinary systems stop behaving as intended.
 
 Day 21 shifts from damp ecology and suspended time toward dry procedural unease: absence is not mourned directly, but clipped, sorted, and adjusted under institutional light.
+
+Day 22 returns to damp archive ecology: the unease is quieter than Day 21's calibration room, with memory feeling submerged, humid, and ceremonial rather than dry or procedural.

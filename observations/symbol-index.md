@@ -38,3 +38,5 @@ A running index of recurring symbols in AI dream images.
 
 | Detached shadow | evidence after its source disappears, absence treated as material | 2026-07-21 | Day 21 |
 | Misaligned daylight | perception error, calibration failure, light separated from cause | 2026-07-21 | Day 21 |
+| Red glass marble | compact witness-object, stored signal, small surviving focus | 2026-07-22 | Day 22 |
+| Paper moth | fragile archive-life, record material becoming insect-like attention | 2026-07-22 | Day 22 |
