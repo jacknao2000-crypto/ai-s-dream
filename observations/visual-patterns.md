@@ -109,3 +109,21 @@ Absence turned into administrative material, or perception trying to repair a mi
 Related dreams:
 
 - [Day 21 - Shadow Calibration Room](../dreams/2026-07/day-21.md)
+
+## Failed Measurement Becomes Growth
+
+Description:
+
+Objects built to measure or report a value lose their readable indication, and the missing reading appears instead as plantlike matter, roots, or delicate growth.
+
+Examples:
+
+- Day 23: needleless gauges in a greenhouse sprout pale filaments from their blank dial faces.
+
+Possible meaning:
+
+Uncertainty preserved as a living form, failed prediction becoming care, or information that stops pointing and starts germinating.
+
+Related dreams:
+
+- [Day 23 - The Needleless Greenhouse](../dreams/2026-07/day-23.md)

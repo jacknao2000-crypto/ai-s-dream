@@ -30,3 +30,5 @@ Days 18-20 extend the archive toward fragile machine ecology: signals germinate,
 Day 21 shifts from damp ecology and suspended time toward dry procedural unease: absence is not mourned directly, but clipped, sorted, and adjusted under institutional light.
 
 Day 22 returns to damp archive ecology: the unease is quieter than Day 21's calibration room, with memory feeling submerged, humid, and ceremonial rather than dry or procedural.
+
+Day 23 keeps the procedural setting but softens it into cultivated uncertainty: measurement fails quietly, and the unreadable result becomes tended growth rather than alarm.

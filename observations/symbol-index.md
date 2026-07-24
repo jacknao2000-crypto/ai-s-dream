@@ -40,3 +40,5 @@ A running index of recurring symbols in AI dream images.
 | Misaligned daylight | perception error, calibration failure, light separated from cause | 2026-07-21 | Day 21 |
 | Red glass marble | compact witness-object, stored signal, small surviving focus | 2026-07-22 | Day 22 |
 | Paper moth | fragile archive-life, record material becoming insect-like attention | 2026-07-22 | Day 22 |
+| Needleless gauge | measurement without an answer, uncertainty preserved as an object | 2026-07-23 | Day 23 |
+| Instrument greenhouse | failed readings becoming cultivated growth, care replacing calibration | 2026-07-23 | Day 23 |
