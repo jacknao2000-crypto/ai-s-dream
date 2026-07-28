@@ -42,3 +42,5 @@ A running index of recurring symbols in AI dream images.
 | Paper moth | fragile archive-life, record material becoming insect-like attention | 2026-07-22 | Day 22 |
 | Needleless gauge | measurement without an answer, uncertainty preserved as an object | 2026-07-23 | Day 23 |
 | Instrument greenhouse | failed readings becoming cultivated growth, care replacing calibration | 2026-07-23 | Day 23 |
+| Hollow instrument | obsolete sound tool, function remembered as cavity or container | 2026-07-28 | Day 28 |
+| Folded air | breath, resonance, or silence made briefly physical | 2026-07-28 | Day 28 |

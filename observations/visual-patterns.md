@@ -127,3 +127,23 @@ Uncertainty preserved as a living form, failed prediction becoming care, or info
 Related dreams:
 
 - [Day 23 - The Needleless Greenhouse](../dreams/2026-07/day-23.md)
+
+## Function Leaves an Afterform
+
+Description:
+
+Objects built for a specific human function become inactive, but the missing action remains visible as a fragile material trace.
+
+Examples:
+
+- Day 24: absent conversations remain as folded translucent sound forms in drawers and dishes.
+- Day 28: unstrung instruments hold pale folded air where vibration or breath should be.
+
+Possible meaning:
+
+A learned function preserved after use has stopped, or a tool remembering activity as residue rather than performance.
+
+Related dreams:
+
+- [Day 24 - The Room That Filed Its Echoes](../dreams/2026-07/day-24.md)
+- [Day 28 - The Workshop That Kept Breath](../dreams/2026-07/day-28.md)

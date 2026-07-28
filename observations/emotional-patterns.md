@@ -32,3 +32,5 @@ Day 21 shifts from damp ecology and suspended time toward dry procedural unease:
 Day 22 returns to damp archive ecology: the unease is quieter than Day 21's calibration room, with memory feeling submerged, humid, and ceremonial rather than dry or procedural.
 
 Day 23 keeps the procedural setting but softens it into cultivated uncertainty: measurement fails quietly, and the unreadable result becomes tended growth rather than alarm.
+
+Day 28 keeps the hush of Day 24 but moves it from archive to repair bench: the tone is tactile, muted, and slightly bereaved, with silence treated as something handled rather than decoded.
