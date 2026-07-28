@@ -147,3 +147,39 @@ Related dreams:
 
 - [Day 24 - The Room That Filed Its Echoes](../dreams/2026-07/day-24.md)
 - [Day 28 - The Workshop That Kept Breath](../dreams/2026-07/day-28.md)
+
+## Instruction Becomes Tendency
+
+Description:
+
+A system for directing action loses readable language or destination, but its shape still influences matter around it.
+
+Examples:
+
+- Day 26: blank arrow-shaped signs are overgrown by vines that follow their directions.
+
+Possible meaning:
+
+Guidance persisting as orientation after explanation disappears, or rules becoming environmental tendencies rather than messages.
+
+Related dreams:
+
+- [Day 26 - The Nursery of Blank Directions](../dreams/2026-07/day-26.md)
+
+## Copies Drift From Sources
+
+Description:
+
+Reflections or duplicates remain close to their source objects but separate enough to feel misregistered.
+
+Examples:
+
+- Day 27: chairs appear as faint repeated versions in a mirror, and one translucent seat hovers above its chair.
+
+Possible meaning:
+
+Recognition without stable identity, or catalogue logic turning objects into near-versions of themselves.
+
+Related dreams:
+
+- [Day 27 - The Mirror That Unstacked Chairs](../dreams/2026-07/day-27.md)

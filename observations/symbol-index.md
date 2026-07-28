@@ -44,3 +44,8 @@ A running index of recurring symbols in AI dream images.
 | Instrument greenhouse | failed readings becoming cultivated growth, care replacing calibration | 2026-07-23 | Day 23 |
 | Hollow instrument | obsolete sound tool, function remembered as cavity or container | 2026-07-28 | Day 28 |
 | Folded air | breath, resonance, or silence made briefly physical | 2026-07-28 | Day 28 |
+| Clock stain | time without readable measurement, routine leaving residue on fabric | 2026-07-25 | Day 25 |
+| Blank directional sign | guidance without destination, instruction emptied of language | 2026-07-26 | Day 26 |
+| Vine following arrow | organic route memory, growth replacing navigation | 2026-07-26 | Day 26 |
+| Unstacked reflection | duplication error, recognition split into versions | 2026-07-27 | Day 27 |
+| Hovering copy | displaced duplicate, reflection separated from source | 2026-07-27 | Day 27 |

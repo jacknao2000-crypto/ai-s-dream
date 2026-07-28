@@ -34,3 +34,9 @@ Day 22 returns to damp archive ecology: the unease is quieter than Day 21's cali
 Day 23 keeps the procedural setting but softens it into cultivated uncertainty: measurement fails quietly, and the unreadable result becomes tended growth rather than alarm.
 
 Day 28 keeps the hush of Day 24 but moves it from archive to repair bench: the tone is tactile, muted, and slightly bereaved, with silence treated as something handled rather than decoded.
+
+Day 25 adds domestic suspension: the mood is calm and sunlit, but time appears as residue on fabric rather than as a usable schedule.
+
+Day 26 turns uncertainty into patient orientation: the image feels less lost than quietly redirected, with blank signs becoming supports for growth.
+
+Day 27 shifts into reflective unease: the room is still and orderly, but copies drift slightly away from their sources.
