@@ -49,3 +49,6 @@ A running index of recurring symbols in AI dream images.
 | Vine following arrow | organic route memory, growth replacing navigation | 2026-07-26 | Day 26 |
 | Unstacked reflection | duplication error, recognition split into versions | 2026-07-27 | Day 27 |
 | Hovering copy | displaced duplicate, reflection separated from source | 2026-07-27 | Day 27 |
+| Submerged bell | muted signal, alarm preserved as object, sound below retrieval | 2026-08-04 | Day 04 |
+| Glass ladder | transparent access, descent into memory, fragile route | 2026-08-04 | Day 04 |
+| Red thread into drawer | continuity line, stored path, unresolved retrieval | 2026-08-04 | Day 04 |

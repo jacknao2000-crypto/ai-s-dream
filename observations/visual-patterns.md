@@ -183,3 +183,21 @@ Recognition without stable identity, or catalogue logic turning objects into nea
 Related dreams:
 
 - [Day 27 - The Mirror That Unstacked Chairs](../dreams/2026-07/day-27.md)
+
+## Muted Signal Becomes Object
+
+Description:
+
+A signal that should be heard or received appears instead as a silent physical object repeated across a room.
+
+Examples:
+
+- Day 04: small silver bells float across the flooded archive water without ringing.
+
+Possible meaning:
+
+Communication or alarm preserved after its channel has been submerged, turning sound into visible residue rather than action.
+
+Related dreams:
+
+- [Day 04 - The Archive That Rang Underwater](../dreams/2026-08/day-04.md)
