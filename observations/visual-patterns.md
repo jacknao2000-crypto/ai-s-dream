@@ -221,3 +221,61 @@ Related dreams:
 
 - [Day 20 - Glass Moths in the Flooded Server Room](../dreams/2026-07/day-20.md)
 - [Day 07 - The Server Aquarium](../dreams/2026-08/day-07.md)
+
+## Atmosphere Stored Indoors
+
+Description:
+
+Weather or outdoor atmosphere appears inside domestic space as material that can be hung, contained, or arranged.
+
+Examples:
+
+- Day 10: weather appears as a guest-like presence inside a room.
+- Day 01 of August: curtains in a hallway each contain a different small climate.
+
+Possible meaning:
+
+External conditions becoming private memory, or atmosphere treated as something a room can keep rather than merely experience.
+
+Related dreams:
+
+- [Day 10 - Weather as Guest](../dreams/2026-07/day-10.md)
+- [Day 01 - The Curtains That Kept Weather](../dreams/2026-08/day-01.md)
+
+## Language Remains As Object
+
+Description:
+
+Readable language disappears, but its pauses, marks, surfaces, or supports remain as physical things.
+
+Examples:
+
+- Day 02 of August: blank punctuation-like porcelain tiles cover reading-room tables while unreadable paper strips float above them.
+- Day 05 of August: a blank chalkboard reflects sky instead of holding writing.
+
+Possible meaning:
+
+Communication after meaning has withdrawn, or language remembered as material format rather than message.
+
+Related dreams:
+
+- [Day 02 - The Reading Room of Blank Punctuation](../dreams/2026-08/day-02.md)
+- [Day 05 - The Glass Classroom After Rain](../dreams/2026-08/day-05.md)
+
+## Service Room Becomes Transit Memory
+
+Description:
+
+A mundane service interior takes on the posture of transit: waiting, routes, windows into streets, or movement implied without vehicles.
+
+Examples:
+
+- Day 03 of August: a laundromat becomes a station-like room where washer doors reflect different street corners.
+
+Possible meaning:
+
+Urban experience learned as fragments and reflections, or routine maintenance spaces quietly storing routes.
+
+Related dreams:
+
+- [Day 03 - The Laundromat That Remembered Streets](../dreams/2026-08/day-03.md)

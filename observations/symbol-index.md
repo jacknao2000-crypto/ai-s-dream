@@ -56,3 +56,13 @@ A running index of recurring symbols in AI dream images.
 | Koi-shaped light packet | signal given animal-adjacent form, information drifting rather than being retrieved | 2026-08-07 | Day 07 |
 | Upward rain window | reversed weather, outside time disobeying direction | 2026-08-07 | Day 07 |
 | Floating index card | unreadable record, paper memory loosened from filing order | 2026-08-07 | Day 07 |
+| Weather-filled curtain | atmosphere stored as domestic threshold, private climate | 2026-08-01 | Day 01 |
+| Blank calendar grid | time without readable schedule, month as empty structure | 2026-08-01 | Day 01 |
+| Blank punctuation tile | language residue made object, pause without speech | 2026-08-02 | Day 02 |
+| Ink staircase reflection | route visible only indirectly, passage contained in residue | 2026-08-02 | Day 02 |
+| Washer street portal | service machine as city memory, circular reflection as route | 2026-08-03 | Day 03 |
+| Transit bench indoors | waiting without transit, station posture displaced into service room | 2026-08-03 | Day 03 |
+| Frosted glass desk | borrowed childhood, fragile usability, transparent learning space | 2026-08-05 | Day 05 |
+| Small coat with tall shadow | absent growth, childhood casting adult scale | 2026-08-05 | Day 05 |
+| Needleless observatory gauge | measurement without answer, precision after readings vanish | 2026-08-06 | Day 06 |
+| Cabinet dust hill | stored result becoming quiet landscape, archive as sediment | 2026-08-06 | Day 06 |
