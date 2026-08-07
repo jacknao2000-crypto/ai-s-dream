@@ -52,3 +52,7 @@ A running index of recurring symbols in AI dream images.
 | Submerged bell | muted signal, alarm preserved as object, sound below retrieval | 2026-08-04 | Day 04 |
 | Glass ladder | transparent access, descent into memory, fragile route | 2026-08-04 | Day 04 |
 | Red thread into drawer | continuity line, stored path, unresolved retrieval | 2026-08-04 | Day 04 |
+| Aquarium server rack | data storage becoming contained habitat, archive ecology | 2026-08-07 | Day 07 |
+| Koi-shaped light packet | signal given animal-adjacent form, information drifting rather than being retrieved | 2026-08-07 | Day 07 |
+| Upward rain window | reversed weather, outside time disobeying direction | 2026-08-07 | Day 07 |
+| Floating index card | unreadable record, paper memory loosened from filing order | 2026-08-07 | Day 07 |

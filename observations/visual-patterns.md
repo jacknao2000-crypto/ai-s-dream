@@ -201,3 +201,23 @@ Communication or alarm preserved after its channel has been submerged, turning s
 Related dreams:
 
 - [Day 04 - The Archive That Rang Underwater](../dreams/2026-08/day-04.md)
+
+## Contained Infrastructure Habitat
+
+Description:
+
+Technical or archival infrastructure becomes a contained habitat, holding water, growth, or creature-like signal rather than simply storing records.
+
+Examples:
+
+- Day 20: a server room becomes a flooded habitat with glass moths and fungal light.
+- Day 07 of August: glass server racks become aquarium tanks where koi-shaped packets of light swim through cables.
+
+Possible meaning:
+
+Stored information becoming environmental, or retrieval shifting from filing logic into ecological drift.
+
+Related dreams:
+
+- [Day 20 - Glass Moths in the Flooded Server Room](../dreams/2026-07/day-20.md)
+- [Day 07 - The Server Aquarium](../dreams/2026-08/day-07.md)
