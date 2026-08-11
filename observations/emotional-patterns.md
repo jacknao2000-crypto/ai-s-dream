@@ -54,3 +54,5 @@ Day 03 of August carries urban loneliness without exterior drama: the laundromat
 Day 05 of August makes childhood feel borrowed and delicate: the classroom is calm, but its transparent desks, hovering blocks, and oversized coat shadow keep use and growth at a distance.
 
 Day 06 of August returns to dry procedural unease: instruments remain precise, but readings vanish, daylight misaligns, and stored dust becomes the closest thing to an answer.
+
+Day 11 of August keeps the dry procedural mood but moves it into a cramped transit threshold: the elevator does not arrive, and direction appears as cultivated roots and blank tags rather than signage.

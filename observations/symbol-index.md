@@ -66,3 +66,7 @@ A running index of recurring symbols in AI dream images.
 | Small coat with tall shadow | absent growth, childhood casting adult scale | 2026-08-05 | Day 05 |
 | Needleless observatory gauge | measurement without answer, precision after readings vanish | 2026-08-06 | Day 06 |
 | Cabinet dust hill | stored result becoming quiet landscape, archive as sediment | 2026-08-06 | Day 06 |
+| Elevator seed tray | stopped transition becoming cultivation, route held until it can grow | 2026-08-11 | Day 11 |
+| Ceramic seed | manufactured growth, stored potential, natural process made archival | 2026-08-11 | Day 11 |
+| Folded arrow root | direction becoming fragile growth, instruction before readability | 2026-08-11 | Day 11 |
+| Blank soil tag | record-keeping without names, classification before language | 2026-08-11 | Day 11 |

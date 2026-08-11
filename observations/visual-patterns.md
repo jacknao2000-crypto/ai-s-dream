@@ -279,3 +279,21 @@ Urban experience learned as fragments and reflections, or routine maintenance sp
 Related dreams:
 
 - [Day 03 - The Laundromat That Remembered Streets](../dreams/2026-08/day-03.md)
+
+## Stopped Transit Becomes Cultivation
+
+Description:
+
+A space built for movement pauses and turns into a place where direction is grown, stored, or tended through small repeated objects.
+
+Examples:
+
+- Day 11 of August: an apartment elevator stopped between floors is lined with seed trays, ceramic seeds, folded arrow roots, and blank soil tags.
+
+Possible meaning:
+
+Transition held in a preparatory state, or navigation becoming organic tendency before it becomes readable instruction.
+
+Related dreams:
+
+- [Day 11 - The Elevator Seed Room](../dreams/2026-08/day-11.md)
