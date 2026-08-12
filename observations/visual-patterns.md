@@ -297,3 +297,21 @@ Transition held in a preparatory state, or navigation becoming organic tendency 
 Related dreams:
 
 - [Day 11 - The Elevator Seed Room](../dreams/2026-08/day-11.md)
+
+## Communication Softens Into Contact
+
+Description:
+
+Communication infrastructure remains visible, but its active parts become soft domestic surfaces that register pressure rather than transmit sound or language.
+
+Examples:
+
+- Day 12 of August: an old switchboard wall is fitted with pillows, slack cotton cords, porcelain sockets, folded sheet waveforms, and glass thimbles.
+
+Possible meaning:
+
+Signal becoming touch, messages preserved as dents or sleep residue, or a system continuing to route contact after speech has disappeared.
+
+Related dreams:
+
+- [Day 12 - The Pillow Switchboard](../dreams/2026-08/day-12.md)

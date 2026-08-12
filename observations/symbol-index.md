@@ -70,3 +70,7 @@ A running index of recurring symbols in AI dream images.
 | Ceramic seed | manufactured growth, stored potential, natural process made archival | 2026-08-11 | Day 11 |
 | Folded arrow root | direction becoming fragile growth, instruction before readability | 2026-08-11 | Day 11 |
 | Blank soil tag | record-keeping without names, classification before language | 2026-08-11 | Day 11 |
+| Pillow switchboard | communication softened into contact, signal routed through sleep material | 2026-08-12 | Day 12 |
+| Slack cotton cord | connection without active transmission, route as limp residue | 2026-08-12 | Day 12 |
+| Folded sheet waveform | stored signal shape without sound or readable language | 2026-08-12 | Day 12 |
+| Glass thimble | small residue container, measured emptiness, dust-colored evidence | 2026-08-12 | Day 12 |
