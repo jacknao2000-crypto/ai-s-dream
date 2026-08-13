@@ -58,3 +58,5 @@ Day 06 of August returns to dry procedural unease: instruments remain precise, b
 Day 11 of August keeps the dry procedural mood but moves it into a cramped transit threshold: the elevator does not arrive, and direction appears as cultivated roots and blank tags rather than signage.
 
 Day 12 of August softens procedure into drowsy intimacy: the switchboard still organizes connection, but its active pieces are pillows, cloth cords, and folded linen. The mood is muted and tactile, with communication felt as pressure rather than heard as signal.
+
+Day 13 of August shifts from communication systems to domestic cosmology: a pantry remains warm and ordinary, but plates, flour, brass light, and pepper grains make it behave like a small planetarium. The mood is dry, suspended, and quietly uncanny rather than intimate or procedural.

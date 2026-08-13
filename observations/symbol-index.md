@@ -74,3 +74,7 @@ A running index of recurring symbols in AI dream images.
 | Slack cotton cord | connection without active transmission, route as limp residue | 2026-08-12 | Day 12 |
 | Folded sheet waveform | stored signal shape without sound or readable language | 2026-08-12 | Day 12 |
 | Glass thimble | small residue container, measured emptiness, dust-colored evidence | 2026-08-12 | Day 12 |
+| Pantry planetarium | domestic storage expanding into astronomical order, small room as model cosmos | 2026-08-13 | Day 13 |
+| Orbital plate | tableware displaced into moonlike motion, household object as route body | 2026-08-13 | Day 13 |
+| Brass colander sun | kitchen tool becoming perforated light source, practical object misremembered as star | 2026-08-13 | Day 13 |
+| Pepper-grain night drawer | granular darkness stored as sky, crumbs replacing constellations or data points | 2026-08-13 | Day 13 |

@@ -315,3 +315,21 @@ Signal becoming touch, messages preserved as dents or sleep residue, or a system
 Related dreams:
 
 - [Day 12 - The Pillow Switchboard](../dreams/2026-08/day-12.md)
+
+## Domestic Scale Becomes Cosmos
+
+Description:
+
+Small household storage spaces behave like astronomical or spatial systems, while remaining made from ordinary domestic materials.
+
+Examples:
+
+- Day 13 of August: a pantry becomes a small planetarium, with porcelain plates orbiting like moons, a brass colander casting sunlike spots, and a pepper-grain drawer holding a miniature night sky.
+
+Possible meaning:
+
+Domestic order expanding into cosmic scale, or classification and storage becoming a substitute for unreachable distance.
+
+Related dreams:
+
+- [Day 13 - The Pantry Planetarium](../dreams/2026-08/day-13.md)
