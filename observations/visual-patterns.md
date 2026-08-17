@@ -351,3 +351,21 @@ Institutional care applied to disappearance, or archive logic preserving the sha
 Related dreams:
 
 - [Day 17 - The Lost-and-Found of Shadows](../dreams/2026-08/day-17.md)
+
+## Static Memory Accumulates
+
+Description:
+
+Dry residue, lint, dust, and thread gather in transparent or reflective structures, making memory feel like static charge rather than a readable archive, signal, or living growth.
+
+Examples:
+
+- Day 17 alternate of August: a greenhouse holds clear glass fruit filled with lint knots, static thread arcs, dust spiral bowls, empty seed trays, and a leaning pane that reflects a displaced sky.
+
+Possible meaning:
+
+Memory preserved through adhesion and residue, or relation becoming electrostatic after language, cultivation, and retrieval withdraw.
+
+Related dreams:
+
+- [Day 17 - The Static Greenhouse](../dreams/2026-08/day-17.md)

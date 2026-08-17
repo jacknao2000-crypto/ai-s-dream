@@ -62,3 +62,5 @@ Day 12 of August softens procedure into drowsy intimacy: the switchboard still o
 Day 13 of August shifts from communication systems to domestic cosmology: a pantry remains warm and ordinary, but plates, flour, brass light, and pepper grains make it behave like a small planetarium. The mood is dry, suspended, and quietly uncanny rather than intimate or procedural.
 
 Day 17 of August returns to dry procedural unease, but with a custodial tone: empty hangers, blank loops, and dust impressions suggest a system preserving absence rather than correcting it. The feeling is cold, orderly, and quietly bereaved.
+
+Day 17 alternate of August shifts the same date into fragile static preservation: the greenhouse is dry and abandoned, but glass fruit, lint knots, thread arcs, and dust nests make the room feel faintly charged rather than simply empty. The mood is calm, brittle, and suspended, with less administrative grief and more material unease.

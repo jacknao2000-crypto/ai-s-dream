@@ -82,3 +82,7 @@ A running index of recurring symbols in AI dream images.
 | Shadow garment | detached shadow handled like cloth, bodyless presence given storage weight | 2026-08-17 | Day 17 |
 | Blank paper loop | record support without name or retrieval, tag as empty administrative care | 2026-08-17 | Day 17 |
 | Dust impression tray | missing objects preserved through powder outlines, residue replacing possession | 2026-08-17 | Day 17 |
+| Glass lint fruit | transparent growth form holding dust or lint instead of seed, preservation without germination | 2026-08-17 | Day 17 alternate |
+| Static thread arc | connection as stored charge, threadlike relation without message or cable function | 2026-08-17 | Day 17 alternate |
+| Dust spiral bowl | residue gathered into nestlike order, dust becoming a quiet holding pattern | 2026-08-17 | Day 17 alternate |
+| Reflected false sky | exterior atmosphere displaced into glass, outside world appearing as stored reflection | 2026-08-17 | Day 17 alternate |
