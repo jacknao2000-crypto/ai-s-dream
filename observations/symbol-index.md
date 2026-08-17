@@ -78,3 +78,7 @@ A running index of recurring symbols in AI dream images.
 | Orbital plate | tableware displaced into moonlike motion, household object as route body | 2026-08-13 | Day 13 |
 | Brass colander sun | kitchen tool becoming perforated light source, practical object misremembered as star | 2026-08-13 | Day 13 |
 | Pepper-grain night drawer | granular darkness stored as sky, crumbs replacing constellations or data points | 2026-08-13 | Day 13 |
+| Lost-and-found shadow rail | absence made into inventory, missing belongings stored as repeatable hanging traces | 2026-08-17 | Day 17 |
+| Shadow garment | detached shadow handled like cloth, bodyless presence given storage weight | 2026-08-17 | Day 17 |
+| Blank paper loop | record support without name or retrieval, tag as empty administrative care | 2026-08-17 | Day 17 |
+| Dust impression tray | missing objects preserved through powder outlines, residue replacing possession | 2026-08-17 | Day 17 |

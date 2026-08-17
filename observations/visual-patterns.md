@@ -333,3 +333,21 @@ Domestic order expanding into cosmic scale, or classification and storage becomi
 Related dreams:
 
 - [Day 13 - The Pantry Planetarium](../dreams/2026-08/day-13.md)
+
+## Absence Becomes Inventory
+
+Description:
+
+Missing or detached things are stored through supports, tags, traces, and repeated containers, as if absence can be catalogued even when the source object is gone.
+
+Examples:
+
+- Day 17 of August: empty coat hangers carry translucent shadow garments, blank paper loops, and trays of dust impressions shaped like missing belongings.
+
+Possible meaning:
+
+Institutional care applied to disappearance, or archive logic preserving the shape of what it cannot return.
+
+Related dreams:
+
+- [Day 17 - The Lost-and-Found of Shadows](../dreams/2026-08/day-17.md)
