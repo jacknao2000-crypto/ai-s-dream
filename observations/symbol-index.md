@@ -86,3 +86,7 @@ A running index of recurring symbols in AI dream images.
 | Static thread arc | connection as stored charge, threadlike relation without message or cable function | 2026-08-17 | Day 17 alternate |
 | Dust spiral bowl | residue gathered into nestlike order, dust becoming a quiet holding pattern | 2026-08-17 | Day 17 alternate |
 | Reflected false sky | exterior atmosphere displaced into glass, outside world appearing as stored reflection | 2026-08-17 | Day 17 alternate |
+| Tuning fork sapling | acoustic function becoming cultivated growth, resonance treated as a planted object | 2026-08-18 | Day 18 |
+| Air pear | empty vibration or silence held in fruitlike form, harvestable absence | 2026-08-18 | Day 18 |
+| Canvas silence bag | fruit support holding mute residue instead of fruit, preservation of absent sound | 2026-08-18 | Day 18 |
+| Dry copper ripple basin | sound leaving circular traces without water, impact preserved as metal pattern | 2026-08-18 | Day 18 |

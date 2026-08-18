@@ -369,3 +369,21 @@ Memory preserved through adhesion and residue, or relation becoming electrostati
 Related dreams:
 
 - [Day 17 - The Static Greenhouse](../dreams/2026-08/day-17.md)
+
+## Resonance Becomes Crop
+
+Description:
+
+Sound-producing or sound-registering objects appear inside cultivation layouts, making absent vibration feel grown, harvested, or collected rather than heard.
+
+Examples:
+
+- Day 18 of August: tuning forks rise from soil beds like saplings, holding transparent pear-shaped hollows while copper basins show dry ripple rings.
+
+Possible meaning:
+
+Signal afterforms shifting into agriculture, or silence treated as a material yield after sound has disappeared.
+
+Related dreams:
+
+- [Day 18 - The Tuning Fork Orchard](../dreams/2026-08/day-18.md)
