@@ -90,3 +90,8 @@ A running index of recurring symbols in AI dream images.
 | Air pear | empty vibration or silence held in fruitlike form, harvestable absence | 2026-08-18 | Day 18 |
 | Canvas silence bag | fruit support holding mute residue instead of fruit, preservation of absent sound | 2026-08-18 | Day 18 |
 | Dry copper ripple basin | sound leaving circular traces without water, impact preserved as metal pattern | 2026-08-18 | Day 18 |
+| Folded windowpane | view treated as correspondence, fragile destination stored like paper | 2026-08-19 | Day 19 |
+| Waxed weather envelope | atmosphere sealed as a dry message-fragment, weather without motion or water | 2026-08-19 | Day 19 |
+| Blank postage stack | sending format without address, value, or image; communication withheld before dispatch | 2026-08-19 | Day 19 |
+| Postal pigeonhole wall | sorting infrastructure repurposed to file rooms, windows, and destinations | 2026-08-19 | Day 19 |
+| Door-shaped reflection | threshold preserved as reflected trace rather than usable passage | 2026-08-19 | Day 19 |

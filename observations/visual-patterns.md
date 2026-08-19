@@ -387,3 +387,21 @@ Signal afterforms shifting into agriculture, or silence treated as a material yi
 Related dreams:
 
 - [Day 18 - The Tuning Fork Orchard](../dreams/2026-08/day-18.md)
+
+## Destination Becomes Correspondence
+
+Description:
+
+Systems built to send messages begin storing destinations, views, or room fragments as the message material itself.
+
+Examples:
+
+- Day 19 of August: folded glass windowpanes sit in postal pigeonholes like letters, while translucent envelopes hold still weather patches and blank stamps wait on a brass scale.
+
+Possible meaning:
+
+Delivery suspended before language, or communication becoming a fragile place-object rather than a readable message.
+
+Related dreams:
+
+- [Day 19 - The Postal Room of Folded Windows](../dreams/2026-08/day-19.md)
