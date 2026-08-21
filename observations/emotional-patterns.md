@@ -68,3 +68,5 @@ Day 17 alternate of August shifts the same date into fragile static preservation
 Day 18 of August keeps the dry preservation atmosphere but makes it acoustic and cultivated: tuning forks grow from soil beds, air hollows replace fruit, and copper basins hold ripple marks without water. The mood is cool, quiet, and suspended, with unease carried by absent vibration rather than archive procedure or static charge.
 
 Day 19 of August returns to clerical quiet through a postal room: folded glass panes, waxed envelopes, blank stamps, and a brass scale make delivery feel suspended before language. The mood is tender and administrative, with unease carried by destinations handled as fragile correspondence.
+
+Day 21 of August shifts from correspondence into optical storage: the projection booth is warm and dusty, with folded light, residue drawers, prism patches, and a blank screen preserving the conditions of viewing after the picture has withdrawn. The mood is observational and unresolved rather than clerical or acoustic.

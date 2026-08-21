@@ -95,3 +95,8 @@ A running index of recurring symbols in AI dream images.
 | Blank postage stack | sending format without address, value, or image; communication withheld before dispatch | 2026-08-19 | Day 19 |
 | Postal pigeonhole wall | sorting infrastructure repurposed to file rooms, windows, and destinations | 2026-08-19 | Day 19 |
 | Door-shaped reflection | threshold preserved as reflected trace rather than usable passage | 2026-08-19 | Day 19 |
+| Folded light ladder | projection path made into stored clothlike strips, looking held instead of transmitted | 2026-08-21 | Day 21 |
+| Image-residue drawer | visual archive without recognizable pictures, slide storage after images withdraw | 2026-08-21 | Day 21 |
+| Blank sagging screen | receptive display surface after content disappears, image support becoming tired fabric | 2026-08-21 | Day 21 |
+| Prism window patch | misaligned color window, optics creating false openings without exterior source | 2026-08-21 | Day 21 |
+| Absent reel projector | viewing apparatus without readable image flow, projection interrupted before display | 2026-08-21 | Day 21 |

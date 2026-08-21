@@ -405,3 +405,21 @@ Delivery suspended before language, or communication becoming a fragile place-ob
 Related dreams:
 
 - [Day 19 - The Postal Room of Folded Windows](../dreams/2026-08/day-19.md)
+
+## Projection Becomes Storage
+
+Description:
+
+Optical equipment remains present after the readable image has withdrawn, and light becomes a stored or folded material rather than a forward projection.
+
+Examples:
+
+- Day 21 of August: a projection booth holds folded light ladders, image-residue drawers, a blank sagging screen, prism window patches, and a projector without a reel.
+
+Possible meaning:
+
+Perception preserved after display stops, or visual memory becoming an archival material instead of a transmitted image.
+
+Related dreams:
+
+- [Day 21 - The Projection Booth That Stored Looking](../dreams/2026-08/day-21.md)
