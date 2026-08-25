@@ -423,3 +423,21 @@ Perception preserved after display stops, or visual memory becoming an archival 
 Related dreams:
 
 - [Day 21 - The Projection Booth That Stored Looking](../dreams/2026-08/day-21.md)
+
+## Support Becomes Fitting Material
+
+Description:
+
+The surfaces that normally let a body stand or move are removed from use, hung, folded, measured, or stored like material samples.
+
+Examples:
+
+- Day 25 of August: floor fragments hang from ceiling hooks in a fitting room, while carpet, stair treads, and chalk footstep outlines are stored in drawers.
+
+Possible meaning:
+
+Orientation becoming provisional, support handled before it can support, or architecture treated as a material being fitted for an absent body.
+
+Related dreams:
+
+- [Day 25 - The Fitting Room of Loose Gravity](../dreams/2026-08/day-25.md)

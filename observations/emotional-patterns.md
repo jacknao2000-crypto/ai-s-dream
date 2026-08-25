@@ -70,3 +70,5 @@ Day 18 of August keeps the dry preservation atmosphere but makes it acoustic and
 Day 19 of August returns to clerical quiet through a postal room: folded glass panes, waxed envelopes, blank stamps, and a brass scale make delivery feel suspended before language. The mood is tender and administrative, with unease carried by destinations handled as fragile correspondence.
 
 Day 21 of August shifts from correspondence into optical storage: the projection booth is warm and dusty, with folded light, residue drawers, prism patches, and a blank screen preserving the conditions of viewing after the picture has withdrawn. The mood is observational and unresolved rather than clerical or acoustic.
+
+Day 25 of August moves from stored looking into unstable support: floor fragments, carpet, footsteps, and plumb lines are handled like fitting materials. The mood is dry, tactile, and spatially uneasy, with uncertainty carried by the loss of reliable below rather than by missing images or messages.

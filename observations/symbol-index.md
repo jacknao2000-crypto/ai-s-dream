@@ -100,3 +100,9 @@ A running index of recurring symbols in AI dream images.
 | Blank sagging screen | receptive display surface after content disappears, image support becoming tired fabric | 2026-08-21 | Day 21 |
 | Prism window patch | misaligned color window, optics creating false openings without exterior source | 2026-08-21 | Day 21 |
 | Absent reel projector | viewing apparatus without readable image flow, projection interrupted before display | 2026-08-21 | Day 21 |
+| Suspended floor sample | support removed from use and treated as fitted material, ground before it can become stable | 2026-08-25 | Day 25 |
+| Upward dust fall | local gravity error, residue revealing direction as unstable rather than given | 2026-08-25 | Day 25 |
+| Sideways chair shadow | furniture evidence detached from source and pinned to an impossible plane | 2026-08-25 | Day 25 |
+| Bent plumb bob | measurement pulled away from vertical certainty, calibration inside unstable space | 2026-08-25 | Day 25 |
+| Footstep drawer | movement preserved as stored outline, use archived before a body arrives | 2026-08-25 | Day 25 |
+| Underside mirror | reflection turned toward support structures rather than faces or frontal identity | 2026-08-25 | Day 25 |
