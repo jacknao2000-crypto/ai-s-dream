@@ -106,3 +106,8 @@ A running index of recurring symbols in AI dream images.
 | Bent plumb bob | measurement pulled away from vertical certainty, calibration inside unstable space | 2026-08-25 | Day 25 |
 | Footstep drawer | movement preserved as stored outline, use archived before a body arrives | 2026-08-25 | Day 25 |
 | Underside mirror | reflection turned toward support structures rather than faces or frontal identity | 2026-08-25 | Day 25 |
+| Suspended melt slab | transformation held as a transparent sheet, melting preserved after its source vanishes | 2026-08-25 | Day 25 alternate |
+| Hollow object imprint | absent use-shapes preserved as cavities rather than labels, shadows, or readable records | 2026-08-25 | Day 25 alternate |
+| Dry condensation bead | cold made visible as dry residue, atmosphere condensed without wetness or flow | 2026-08-25 | Day 25 alternate |
+| Numberless thermometer loop | measurement losing scale while retaining a small curled trace of temperature | 2026-08-25 | Day 25 alternate |
+| Cold-ring floor mark | contact remembered by circular temperature residue after the object is gone | 2026-08-25 | Day 25 alternate |

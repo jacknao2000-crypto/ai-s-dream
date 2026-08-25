@@ -72,3 +72,5 @@ Day 19 of August returns to clerical quiet through a postal room: folded glass p
 Day 21 of August shifts from correspondence into optical storage: the projection booth is warm and dusty, with folded light, residue drawers, prism patches, and a blank screen preserving the conditions of viewing after the picture has withdrawn. The mood is observational and unresolved rather than clerical or acoustic.
 
 Day 25 of August moves from stored looking into unstable support: floor fragments, carpet, footsteps, and plumb lines are handled like fitting materials. The mood is dry, tactile, and spatially uneasy, with uncertainty carried by the loss of reliable below rather than by missing images or messages.
+
+Day 25 alternate of August keeps the dry interior stillness but cools it into preserved transformation: transparent melt slabs, object-shaped hollows, dry condensation beads, and a numberless thermometer make loss feel slowed into a specimen. The mood is cold, muted, and estranged, with unease carried by failed preservation rather than unstable ground.

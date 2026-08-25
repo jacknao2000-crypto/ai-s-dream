@@ -441,3 +441,21 @@ Orientation becoming provisional, support handled before it can support, or arch
 Related dreams:
 
 - [Day 25 - The Fitting Room of Loose Gravity](../dreams/2026-08/day-25.md)
+
+## Melting Becomes Specimen
+
+Description:
+
+A process that should be fluid, temporary, or wet is suspended and handled as a dry archival object.
+
+Examples:
+
+- Day 25 alternate of August: transparent melt slabs hang in a cold room, preserving spoon, mitten, support, and blank-label hollows while trays hold dry condensation beads.
+
+Possible meaning:
+
+Transformation slowed into evidence, or disappearance preserved through temperature residue rather than language, shadow, or water.
+
+Related dreams:
+
+- [Day 25 alternate - The Cold Room That Kept Melting](../dreams/2026-08/day-25.md)
