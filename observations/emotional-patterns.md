@@ -74,3 +74,5 @@ Day 21 of August shifts from correspondence into optical storage: the projection
 Day 25 of August moves from stored looking into unstable support: floor fragments, carpet, footsteps, and plumb lines are handled like fitting materials. The mood is dry, tactile, and spatially uneasy, with uncertainty carried by the loss of reliable below rather than by missing images or messages.
 
 Day 25 alternate of August keeps the dry interior stillness but cools it into preserved transformation: transparent melt slabs, object-shaped hollows, dry condensation beads, and a numberless thermometer make loss feel slowed into a specimen. The mood is cold, muted, and estranged, with unease carried by failed preservation rather than unstable ground.
+
+Day 26 of August warms the archive back into domestic atmosphere: a stairwell remembers rooms through translucent scent ribbons, hardened vapor, soap disks, cloth knots, and blank doorplates. The mood is quiet and faintly longing, with unease carried by invisible residue becoming the only available map.

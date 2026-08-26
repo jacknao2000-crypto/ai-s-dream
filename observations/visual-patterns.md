@@ -459,3 +459,21 @@ Transformation slowed into evidence, or disappearance preserved through temperat
 Related dreams:
 
 - [Day 25 alternate - The Cold Room That Kept Melting](../dreams/2026-08/day-25.md)
+
+## Scent Becomes Floorplan
+
+Description:
+
+Invisible domestic atmosphere becomes a visible routing system. Smell appears as ribbons, fossils, trays, or residue that can guide movement after rooms and labels stop providing access.
+
+Examples:
+
+- Day 26 of August: an old apartment stairwell holds translucent scent ribbons, ceramic trays of hardened vapor, soap disks, cloth knots, a dry rain square, and blank doorplates.
+
+Possible meaning:
+
+Memory becoming atmospheric before it becomes image or language, or orientation continuing through residue after addresses withdraw.
+
+Related dreams:
+
+- [Day 26 - The Stairwell That Remembered Smell](../dreams/2026-08/day-26.md)

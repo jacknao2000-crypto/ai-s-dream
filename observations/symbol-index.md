@@ -111,3 +111,9 @@ A running index of recurring symbols in AI dream images.
 | Dry condensation bead | cold made visible as dry residue, atmosphere condensed without wetness or flow | 2026-08-25 | Day 25 alternate |
 | Numberless thermometer loop | measurement losing scale while retaining a small curled trace of temperature | 2026-08-25 | Day 25 alternate |
 | Cold-ring floor mark | contact remembered by circular temperature residue after the object is gone | 2026-08-25 | Day 25 alternate |
+| Scent ribbon | invisible domestic memory becoming a visible soft path without address or language | 2026-08-26 | Day 26 |
+| Scent fossil tray | atmospheric residue arranged as small stored specimens rather than documents or objects | 2026-08-26 | Day 26 |
+| Amber coffee loop | warmth and use preserved as hardened vapor after the room withdraws | 2026-08-26 | Day 26 |
+| Milky soap disk | cleanliness or touch remembered as collapsed translucent matter | 2026-08-26 | Day 26 |
+| Dry rain square | weather reduced to a dry interior residue, atmosphere without active water | 2026-08-26 | Day 26 |
+| Blank doorplate wall | address infrastructure without names, rooms remembered through residue rather than labels | 2026-08-26 | Day 26 |
