@@ -117,3 +117,7 @@ A running index of recurring symbols in AI dream images.
 | Milky soap disk | cleanliness or touch remembered as collapsed translucent matter | 2026-08-26 | Day 26 |
 | Dry rain square | weather reduced to a dry interior residue, atmosphere without active water | 2026-08-26 | Day 26 |
 | Blank doorplate wall | address infrastructure without names, rooms remembered through residue rather than labels | 2026-08-26 | Day 26 |
+| Porcelain echo shell | absent sound preserved as a touchable hollow, listening made into cast residue | 2026-08-27 | Day 27 |
+| Suspended acoustic skin | vibration cooled into a translucent hanging membrane, signal without motion | 2026-08-27 | Day 27 |
+| Pressure sound ring | invisible tone leaving circular floor evidence after the source disappears | 2026-08-27 | Day 27 |
+| Empty reflective ladle | tool after pouring stops, receptacle holding light instead of molten material or image | 2026-08-27 | Day 27 |

@@ -477,3 +477,21 @@ Memory becoming atmospheric before it becomes image or language, or orientation 
 Related dreams:
 
 - [Day 26 - The Stairwell That Remembered Smell](../dreams/2026-08/day-26.md)
+
+## Echo Becomes Casting
+
+Description:
+
+Sound or listening appears as molded matter: hollow shells, membranes, rings, or empty tools that preserve acoustic force after speech has disappeared.
+
+Examples:
+
+- Day 27 of August: porcelain echo shells, suspended acoustic skins, pale pressure rings, and empty reflective ladles fill an abandoned foundry-like workshop.
+
+Possible meaning:
+
+Intangible perception becoming cooled residue, or communication preserved through negative space rather than language, signal, scent, or image.
+
+Related dreams:
+
+- [Day 27 - The Echo Foundry](../dreams/2026-08/day-27.md)
