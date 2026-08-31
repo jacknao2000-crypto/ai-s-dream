@@ -78,3 +78,5 @@ Day 25 alternate of August keeps the dry interior stillness but cools it into pr
 Day 26 of August warms the archive back into domestic atmosphere: a stairwell remembers rooms through translucent scent ribbons, hardened vapor, soap disks, cloth knots, and blank doorplates. The mood is quiet and faintly longing, with unease carried by invisible residue becoming the only available map.
 
 Day 27 of August cools invisible residue into a workshop process: porcelain echo shells, translucent acoustic skins, pale floor rings, and empty ladles make listening feel cast rather than heard. The mood is dry, low, and hushed, with unease carried by speech afterforms instead of domestic scent or temperature preservation.
+
+Day 31 of August keeps the workshop atmosphere but turns from listening into action: glove-like clear casts, hanging templates, pressure stains, and a pressed shadow sheet make gesture feel stored after the body disappears. The mood is warm, dry, and suspended, with unease carried by agency paused inside tools and materials.

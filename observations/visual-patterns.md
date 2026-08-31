@@ -495,3 +495,21 @@ Intangible perception becoming cooled residue, or communication preserved throug
 Related dreams:
 
 - [Day 27 - The Echo Foundry](../dreams/2026-08/day-27.md)
+
+## Gesture Becomes Cast
+
+Description:
+
+Human action remains visible after the body withdraws, preserved as translucent hand-shaped casts, templates, pressure traces, or pressed sheets.
+
+Examples:
+
+- Day 31 of August: a glove-making workshop holds clear gesture casts on tables, hanging movement templates, chalky pressure stains, brass finger forms, and a press flattening a hand-shadow into a transparent sheet.
+
+Possible meaning:
+
+Agency stored after performance stops, or touch remembered as workshop material rather than contact, language, sound, or image.
+
+Related dreams:
+
+- [Day 31 - The Workshop That Stored Gestures](../dreams/2026-08/day-31.md)

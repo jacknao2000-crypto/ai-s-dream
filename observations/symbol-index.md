@@ -121,3 +121,7 @@ A running index of recurring symbols in AI dream images.
 | Suspended acoustic skin | vibration cooled into a translucent hanging membrane, signal without motion | 2026-08-27 | Day 27 |
 | Pressure sound ring | invisible tone leaving circular floor evidence after the source disappears | 2026-08-27 | Day 27 |
 | Empty reflective ladle | tool after pouring stops, receptacle holding light instead of molten material or image | 2026-08-27 | Day 27 |
+| Translucent gesture cast | absent action preserved as clear hand-shaped volume, agency after the body withdraws | 2026-08-31 | Day 31 |
+| Hanging movement template | gesture treated as a pattern without readable instruction, action before performance | 2026-08-31 | Day 31 |
+| Chalky pressure stain | touch or force stored as pale residue rather than label, imprint, or sound | 2026-08-31 | Day 31 |
+| Clear shadow sheet | shadow pressed into transparent material, absence flattened into evidence | 2026-08-31 | Day 31 |
