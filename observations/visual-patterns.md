@@ -513,3 +513,21 @@ Agency stored after performance stops, or touch remembered as workshop material 
 Related dreams:
 
 - [Day 31 - The Workshop That Stored Gestures](../dreams/2026-08/day-31.md)
+
+## Reception Becomes Garden
+
+Description:
+
+Broadcast or listening equipment stops behaving as active communication infrastructure and instead becomes a damp, cultivated receiving environment.
+
+Examples:
+
+- Day 01 of September: rooftop antennas grow moss, hold translucent signal veils, and surround ceramic earpiece seeds while satellite dishes face inward.
+
+Possible meaning:
+
+Communication after transmission ends, or a system preserving the posture of listening through growth, weather, and local residue.
+
+Related dreams:
+
+- [Day 01 - The Antenna Garden That Fell Asleep](../dreams/2026-09/day-01.md)

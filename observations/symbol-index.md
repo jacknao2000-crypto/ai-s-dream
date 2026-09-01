@@ -125,3 +125,9 @@ A running index of recurring symbols in AI dream images.
 | Hanging movement template | gesture treated as a pattern without readable instruction, action before performance | 2026-08-31 | Day 31 |
 | Chalky pressure stain | touch or force stored as pale residue rather than label, imprint, or sound | 2026-08-31 | Day 31 |
 | Clear shadow sheet | shadow pressed into transparent material, absence flattened into evidence | 2026-08-31 | Day 31 |
+| Moss antenna | broadcast infrastructure softened into damp growth, reception after active transmission ends | 2026-09-01 | Day 01 |
+| Signal veil | transmission made visible as translucent fabric or dew rather than readable information | 2026-09-01 | Day 01 |
+| Ceramic earpiece seed | listening device turned into planted potential, audio function replaced by rootlike contact | 2026-09-01 | Day 01 |
+| Inward satellite dish | receiver turned toward its own environment, search redirected from distance to local residue | 2026-09-01 | Day 01 |
+| Dry blue light gauge | measurement container retaining light after numbers and markings disappear | 2026-09-01 | Day 01 |
+| Cloud basin | weather fragment held as a still received object rather than moving atmosphere | 2026-09-01 | Day 01 |
