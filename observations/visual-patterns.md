@@ -531,3 +531,21 @@ Communication after transmission ends, or a system preserving the posture of lis
 Related dreams:
 
 - [Day 01 - The Antenna Garden That Fell Asleep](../dreams/2026-09/day-01.md)
+
+## Pulse Becomes Furniture
+
+Description:
+
+Vital signs leave the body and become room fixtures, relief surfaces, tubes, basins, or casts. The body remains absent, but care infrastructure keeps its rhythm as a tactile interior pattern.
+
+Examples:
+
+- Day 02 of September: examination paper holds wave reliefs, red glass tubes cross the tiled floor, porcelain basins contain transparent pulse rings, and a rolling tray carries clear resin pause casts.
+
+Possible meaning:
+
+Bodily presence translated into architecture after the person disappears, or care continuing as room behavior rather than direct contact.
+
+Related dreams:
+
+- [Day 02 - The Clinic Where Pulse Became Furniture](../dreams/2026-09/day-02.md)

@@ -131,3 +131,9 @@ A running index of recurring symbols in AI dream images.
 | Inward satellite dish | receiver turned toward its own environment, search redirected from distance to local residue | 2026-09-01 | Day 01 |
 | Dry blue light gauge | measurement container retaining light after numbers and markings disappear | 2026-09-01 | Day 01 |
 | Cloud basin | weather fragment held as a still received object rather than moving atmosphere | 2026-09-01 | Day 01 |
+| Pulse paper relief | vital rhythm preserved as tactile surface rather than monitor data | 2026-09-02 | Day 02 |
+| Red glass pulse tube | internal rhythm rerouted through room infrastructure as translucent plumbing | 2026-09-02 | Day 02 |
+| Porcelain pulse basin | care vessel holding circular life-sign residue instead of water or medicine | 2026-09-02 | Day 02 |
+| Resin pause cast | the gap between beats preserved as clear handled matter | 2026-09-02 | Day 02 |
+| Blank clipboard wall | administrative readiness after records disappear, examination without readable data | 2026-09-02 | Day 02 |
+| Weighted privacy curtain | absent patient space held open, privacy remaining as a physical fixture | 2026-09-02 | Day 02 |

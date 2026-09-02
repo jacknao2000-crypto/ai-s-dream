@@ -82,3 +82,5 @@ Day 27 of August cools invisible residue into a workshop process: porcelain echo
 Day 31 of August keeps the workshop atmosphere but turns from listening into action: glove-like clear casts, hanging templates, pressure stains, and a pressed shadow sheet make gesture feel stored after the body disappears. The mood is warm, dry, and suspended, with unease carried by agency paused inside tools and materials.
 
 Day 01 of September moves from stored gesture into dormant reception: moss-covered antennas, translucent signal veils, inward-facing dishes, ceramic earpiece seeds, dry blue light, and a cloud basin make communication feel asleep rather than failed. The mood is damp, blue, and quietly receptive, with unease softened into patient listening.
+
+Day 02 of September turns from external reception toward bodily rhythm without showing a body: examination beds, pulse paper reliefs, red glass tubes, porcelain basins, resin pause casts, and blank clipboards make care feel architectural. The mood is clinical, tender, and restrained, with unease carried by an absent patient space rather than by alarm or injury.
