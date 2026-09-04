@@ -84,3 +84,5 @@ Day 31 of August keeps the workshop atmosphere but turns from listening into act
 Day 01 of September moves from stored gesture into dormant reception: moss-covered antennas, translucent signal veils, inward-facing dishes, ceramic earpiece seeds, dry blue light, and a cloud basin make communication feel asleep rather than failed. The mood is damp, blue, and quietly receptive, with unease softened into patient listening.
 
 Day 02 of September turns from external reception toward bodily rhythm without showing a body: examination beds, pulse paper reliefs, red glass tubes, porcelain basins, resin pause casts, and blank clipboards make care feel architectural. The mood is clinical, tender, and restrained, with unease carried by an absent patient space rather than by alarm or injury.
+
+Day 04 of September moves from care infrastructure into nocturnal domestic procedure: moonlight slabs, wax-paper drawers, darkness powder trays, upward utensil shadows, and a misregistered reflection make nighttime behave like stored kitchen stock. The mood is cool, dry, and worklike, with unease carried by preparation continuing after use, staff, and appetite disappear.

@@ -549,3 +549,21 @@ Bodily presence translated into architecture after the person disappears, or car
 Related dreams:
 
 - [Day 02 - The Clinic Where Pulse Became Furniture](../dreams/2026-09/day-02.md)
+
+## Light Becomes Kitchen Stock
+
+Description:
+
+Illumination, darkness, and shadow become handled kitchen materials: slabs, files, powders, trays, and reflected duplicates. The night is no longer atmosphere but inventory prepared after use has disappeared.
+
+Examples:
+
+- Day 04 of September: moonlight lies in translucent slabs on cutting boards, pale sheets are filed in wax-paper drawers, dark powder sits in enamel trays, and utensil shadows rise upward across the wall.
+
+Possible meaning:
+
+Invisible conditions becoming labor material, or domestic procedure continuing after appetite, staff, and instruction are gone.
+
+Related dreams:
+
+- [Day 04 - The Night Kitchen That Filed Moonlight](../dreams/2026-09/day-04.md)

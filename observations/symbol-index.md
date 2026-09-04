@@ -137,3 +137,9 @@ A running index of recurring symbols in AI dream images.
 | Resin pause cast | the gap between beats preserved as clear handled matter | 2026-09-02 | Day 02 |
 | Blank clipboard wall | administrative readiness after records disappear, examination without readable data | 2026-09-02 | Day 02 |
 | Weighted privacy curtain | absent patient space held open, privacy remaining as a physical fixture | 2026-09-02 | Day 02 |
+| Moonlight slab | illumination cooled into cuttable, storable matter | 2026-09-04 | Day 04 |
+| Wax-paper light file | image-like light stored as perishable records without labels | 2026-09-04 | Day 04 |
+| Darkness powder tray | night handled as dry material and portioned into crescent piles | 2026-09-04 | Day 04 |
+| Upward utensil shadow | tool evidence disobeying gravity, labor projected away from its source | 2026-09-04 | Day 04 |
+| Misregistered oven reflection | duplicated room offset by reflective error, domestic space drifting from itself | 2026-09-04 | Day 04 |
+| Night prep table | work surface preserving preparation after staff, food, and instruction disappear | 2026-09-04 | Day 04 |
