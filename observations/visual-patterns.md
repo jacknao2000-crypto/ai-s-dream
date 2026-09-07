@@ -567,3 +567,21 @@ Invisible conditions becoming labor material, or domestic procedure continuing a
 Related dreams:
 
 - [Day 04 - The Night Kitchen That Filed Moonlight](../dreams/2026-09/day-04.md)
+
+## Gravity Becomes Upholstery
+
+Description:
+
+Weight and pressure appear as soft room material: felt clouds, cushion depressions, slack threads, sagging curtains, and chalk rings around supports. Gravity is not measured as a value, but absorbed by fabric and left as tactile evidence.
+
+Examples:
+
+- Day 07 of September: an upholstery weighing room contains low felt-like weight-clouds, bodyless cushion depressions, brass balance scales, shadow jars, and chalk pressure rings around furniture legs.
+
+Possible meaning:
+
+Use, touch, or bodily absence preserved as pressure rather than image, language, sound, signal, or light.
+
+Related dreams:
+
+- [Day 07 - The Room Where Weight Became Weather](../dreams/2026-09/day-07.md)

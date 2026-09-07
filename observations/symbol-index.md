@@ -143,3 +143,9 @@ A running index of recurring symbols in AI dream images.
 | Upward utensil shadow | tool evidence disobeying gravity, labor projected away from its source | 2026-09-04 | Day 04 |
 | Misregistered oven reflection | duplicated room offset by reflective error, domestic space drifting from itself | 2026-09-04 | Day 04 |
 | Night prep table | work surface preserving preparation after staff, food, and instruction disappear | 2026-09-04 | Day 04 |
+| Felt weight-cloud | gravity made soft and suspended, invisible pressure becoming indoor atmosphere | 2026-09-07 | Day 07 |
+| Bodyless cushion depression | absent use preserved through compressed upholstery rather than figure or shadow | 2026-09-07 | Day 07 |
+| Brass balance scale | measurement posture without readable value, comparison after weight slips away | 2026-09-07 | Day 07 |
+| Shadow jar | heavy absence folded and stored without labels, darkness treated as specimen | 2026-09-07 | Day 07 |
+| Chalk pressure ring | weight leaving circular floor evidence around supports after use disappears | 2026-09-07 | Day 07 |
+| Sagging gravity curtain | cloth pulled by displaced heaviness, gravity behaving like stored fabric tension | 2026-09-07 | Day 07 |

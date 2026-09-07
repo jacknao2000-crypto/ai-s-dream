@@ -86,3 +86,5 @@ Day 01 of September moves from stored gesture into dormant reception: moss-cover
 Day 02 of September turns from external reception toward bodily rhythm without showing a body: examination beds, pulse paper reliefs, red glass tubes, porcelain basins, resin pause casts, and blank clipboards make care feel architectural. The mood is clinical, tender, and restrained, with unease carried by an absent patient space rather than by alarm or injury.
 
 Day 04 of September moves from care infrastructure into nocturnal domestic procedure: moonlight slabs, wax-paper drawers, darkness powder trays, upward utensil shadows, and a misregistered reflection make nighttime behave like stored kitchen stock. The mood is cool, dry, and worklike, with unease carried by preparation continuing after use, staff, and appetite disappear.
+
+Day 07 of September shifts from nocturnal light inventory into tactile pressure memory: felt-like weight clouds, bodyless cushion depressions, brass scales, shadow jars, and chalk floor rings make gravity feel upholstered rather than measured. The mood is hushed, dusty, and compressed, with unease carried by touch and weight after bodies have withdrawn.
