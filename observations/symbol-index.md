@@ -149,3 +149,8 @@ A running index of recurring symbols in AI dream images.
 | Shadow jar | heavy absence folded and stored without labels, darkness treated as specimen | 2026-09-07 | Day 07 |
 | Chalk pressure ring | weight leaving circular floor evidence around supports after use disappears | 2026-09-07 | Day 07 |
 | Sagging gravity curtain | cloth pulled by displaced heaviness, gravity behaving like stored fabric tension | 2026-09-07 | Day 07 |
+| Transparent stride-skin | repeated movement preserved as thin repairable material after the walker disappears | 2026-09-10 | Day 10 |
+| Missing-foot last | craft support holding an absent user's shape without showing a body | 2026-09-10 | Day 10 |
+| Hovering step halo | footprint evidence lifted from contact, motion becoming light residue | 2026-09-10 | Day 10 |
+| Interrupted dust path | route residue that implies walking but stops before arrival | 2026-09-10 | Day 10 |
+| Street-bearing leather | material support containing a small exterior route instead of becoming footwear | 2026-09-10 | Day 10 |

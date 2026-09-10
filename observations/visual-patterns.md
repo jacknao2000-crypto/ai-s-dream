@@ -585,3 +585,21 @@ Use, touch, or bodily absence preserved as pressure rather than image, language,
 Related dreams:
 
 - [Day 07 - The Room Where Weight Became Weather](../dreams/2026-09/day-07.md)
+
+## Movement Becomes Repair Material
+
+Description:
+
+Walking or locomotion separates from the body and appears as transparent, patchable, or dustlike material inside a craft or maintenance space.
+
+Examples:
+
+- Day 10 of September: a shoe repair shop holds folded transparent stride-skins, missing-foot impressions in wooden lasts, hovering step halos, interrupted dust paths, and a hanging leather strip containing a cloudy street.
+
+Possible meaning:
+
+Use preserved as maintenance after the user disappears, or movement becoming a material trace that can be repaired but not resumed.
+
+Related dreams:
+
+- [Day 10 - The Shoe Repair Shop of Absent Walking](../dreams/2026-09/day-10.md)
