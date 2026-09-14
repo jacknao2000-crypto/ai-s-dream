@@ -154,3 +154,8 @@ A running index of recurring symbols in AI dream images.
 | Hovering step halo | footprint evidence lifted from contact, motion becoming light residue | 2026-09-10 | Day 10 |
 | Interrupted dust path | route residue that implies walking but stops before arrival | 2026-09-10 | Day 10 |
 | Street-bearing leather | material support containing a small exterior route instead of becoming footwear | 2026-09-10 | Day 10 |
+| Transparent heat-skin | warmth cooled into sagging foldable sheets after flame and use withdraw | 2026-09-14 | Day 14 |
+| Warmth dust halo | heat remembered as ocher residue around cold infrastructure | 2026-09-14 | Day 14 |
+| Amber room film | stored thermal memory preserving a room-shaped outline without reopening the room | 2026-09-14 | Day 14 |
+| Soot flower dial | failed measurement blooming as dark residue inside a blank instrument face | 2026-09-14 | Day 14 |
+| Remembered sunlight stain | illumination preserved as fabric evidence after active warmth disappears | 2026-09-14 | Day 14 |

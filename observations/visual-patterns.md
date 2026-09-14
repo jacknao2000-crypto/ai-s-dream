@@ -603,3 +603,21 @@ Use preserved as maintenance after the user disappears, or movement becoming a m
 Related dreams:
 
 - [Day 10 - The Shoe Repair Shop of Absent Walking](../dreams/2026-09/day-10.md)
+
+## Warmth Becomes Maintenance Residue
+
+Description:
+
+Heat remains after its source disappears, but it appears as dust, translucent film, soot bloom, fabric stain, or stored sheets rather than flame, comfort, or active light.
+
+Examples:
+
+- Day 14 of September: an empty boiler room holds sagging transparent heat-skins on pipes, ocher warmth halos around radiator feet, amber room films in drawers, and soot flowers in blank pressure dials.
+
+Possible meaning:
+
+Comfort or energy preserved as infrastructure residue, or maintenance continuing after the warmth-producing system has gone cold.
+
+Related dreams:
+
+- [Day 14 - The Boiler Room That Stored Warmth](../dreams/2026-09/day-14.md)
