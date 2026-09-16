@@ -621,3 +621,21 @@ Comfort or energy preserved as infrastructure residue, or maintenance continuing
 Related dreams:
 
 - [Day 14 - The Boiler Room That Stored Warmth](../dreams/2026-09/day-14.md)
+
+## Direction Becomes Drowsy Calibration
+
+Description:
+
+Orientation withdraws from active route-making and remains as calibration residue: folded films, half-closed pointers, circular chalk traces, cloudy turn objects, and misaligned measuring shadows.
+
+Examples:
+
+- Day 16 of September: a navigation room holds translucent orientation-sheets, suspended compass needle eyelids, northless chalk arcs, cloudy turn wafers, and a blank wall ring casting an offset shadow.
+
+Possible meaning:
+
+Guidance preserved before destination, or a system retaining the posture of pointing after readable maps, labels, and bearings disappear.
+
+Related dreams:
+
+- [Day 16 - The Navigation Room That Fell Asleep](../dreams/2026-09/day-16.md)

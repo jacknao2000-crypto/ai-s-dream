@@ -92,3 +92,5 @@ Day 07 of September shifts from nocturnal light inventory into tactile pressure 
 Day 10 of September moves from weight into locomotion: a shoe repair shop stores walking as transparent stride-skins, missing-foot lasts, hovering step halos, interrupted dust paths, and a street-bearing leather strip. The mood is warm, dry, and worklike, with unease carried by repair continuing after every walker has disappeared.
 
 Day 14 of September shifts from locomotion into thermal memory: a boiler room stores warmth as sagging heat-skins, ocher dust halos, amber drawer films, soot-flower dials, and a rectangular sunlight stain. The mood is dry, basement-still, and quietly worklike, with unease carried by maintenance after fire, comfort, and active heat withdraw.
+
+Day 16 of September turns from thermal residue toward orientation before travel: a navigation calibration room holds folded orientation-sheets, suspended needle eyelids, northless chalk arcs, cloudy turn wafers, and a misaligned wall-ring shadow. The mood is pale, dry, and drowsily precise, with unease carried by guidance that can still gesture but no longer fully points.

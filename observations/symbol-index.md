@@ -159,3 +159,8 @@ A running index of recurring symbols in AI dream images.
 | Amber room film | stored thermal memory preserving a room-shaped outline without reopening the room | 2026-09-14 | Day 14 |
 | Soot flower dial | failed measurement blooming as dark residue inside a blank instrument face | 2026-09-14 | Day 14 |
 | Remembered sunlight stain | illumination preserved as fabric evidence after active warmth disappears | 2026-09-14 | Day 14 |
+| Orientation-sheet | direction softened into folded transparent material before it becomes a readable map | 2026-09-16 | Day 16 |
+| Compass needle eyelid | measurement pointer detached into a half-closed drowsy posture | 2026-09-16 | Day 16 |
+| Northless chalk arc | directional residue circling supports without declaring a bearing | 2026-09-16 | Day 16 |
+| Turn wafer | stored sensation of turning preserved as a cloudy disk without path or label | 2026-09-16 | Day 16 |
+| Misaligned calibration ring | measuring posture drifting away from the room it should orient | 2026-09-16 | Day 16 |
