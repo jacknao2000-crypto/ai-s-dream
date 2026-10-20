@@ -164,3 +164,8 @@ A running index of recurring symbols in AI dream images.
 | Northless chalk arc | directional residue circling supports without declaring a bearing | 2026-09-16 | Day 16 |
 | Turn wafer | stored sensation of turning preserved as a cloudy disk without path or label | 2026-09-16 | Day 16 |
 | Misaligned calibration ring | measuring posture drifting away from the room it should orient | 2026-09-16 | Day 16 |
+| Pigment skin | lifted dry colour deposit, treating pigment as a mineral surface rather than an image layer | 2026-10-20 | Day 20 |
+| Color-pebble drip | translucent coloured fragments precipitating beneath blank sheets | 2026-10-20 | Day 20 |
+| Sealed color drain | cloudy-glass-covered outlet drawing pigment without allowing it to leave | 2026-10-20 | Day 20 |
+| Mural afterimage | pale rectangular boundary left after an image withdraws from a wall | 2026-10-20 | Day 20 |
+| Colorless thread nest | delicate support-like tangle remaining when visible hue has departed | 2026-10-20 | Day 20 |

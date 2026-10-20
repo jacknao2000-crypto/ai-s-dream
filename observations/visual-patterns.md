@@ -639,3 +639,21 @@ Guidance preserved before destination, or a system retaining the posture of poin
 Related dreams:
 
 - [Day 16 - The Navigation Room That Fell Asleep](../dreams/2026-09/day-16.md)
+
+## Color Becomes Geology
+
+Description:
+
+Colour withdraws from its image-bearing surface and remains as dry mineral material: skins, flakes, pebbles, gradients, and deposits moving through a room built to wash or process pictures.
+
+Examples:
+
+- Day 20 of October: a print-wash room holds mineral pigment skins in a dry trough, blank sheets shedding coloured fragments, and trails of pigment drawn toward a sealed drain.
+
+Possible meaning:
+
+Image content turning into physical aftermath, or visual appearance becoming a slow material process once representation has stopped.
+
+Related dreams:
+
+- [Day 20 - The Wash Room Where Colors Learned to Rust](../dreams/2026-10/day-20.md)
