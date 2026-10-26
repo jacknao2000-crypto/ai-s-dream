@@ -169,3 +169,8 @@ A running index of recurring symbols in AI dream images.
 | Sealed color drain | cloudy-glass-covered outlet drawing pigment without allowing it to leave | 2026-10-20 | Day 20 |
 | Mural afterimage | pale rectangular boundary left after an image withdraws from a wall | 2026-10-20 | Day 20 |
 | Colorless thread nest | delicate support-like tangle remaining when visible hue has departed | 2026-10-20 | Day 20 |
+| Queue-thread | pale bundled filament making a queue visible as looping floor paths without people or tickets | 2026-10-26 | Day 26 |
+| Pause-knot tray | ceramic vessel holding delay as small soft knotted bundles | 2026-10-26 | Day 26 |
+| Returning chair shadow | empty seat shadow curling back beneath its own chair rather than extending outward | 2026-10-26 | Day 26 |
+| Rain-lined umbrella | dry shelter object retaining a contained rain pattern on its translucent lining | 2026-10-26 | Day 26 |
+| Pressed notice board | administrative display surface preserving pressure without paper, text, or instruction | 2026-10-26 | Day 26 |

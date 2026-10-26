@@ -657,3 +657,21 @@ Image content turning into physical aftermath, or visual appearance becoming a s
 Related dreams:
 
 - [Day 20 - The Wash Room Where Colors Learned to Rust](../dreams/2026-10/day-20.md)
+
+## Waiting Becomes Threadwork
+
+Description:
+
+Waiting withdraws from schedules, crowds, and posted instructions and remains as loose fiber pathways, handled knots, inward shadows, and quiet civic furniture.
+
+Examples:
+
+- Day 26 of October: an empty municipal waiting room holds pale queue-thread looping across terrazzo, a tray of pause knots, chair shadows returning to their seats, a rain-lined umbrella, and a pressed blank notice board.
+
+Possible meaning:
+
+Delay becoming a tangible process, or an administrative space retaining the posture of care after its users and language disappear.
+
+Related dreams:
+
+- [Day 26 - The Waiting Room That Wove Its Own Turns](../dreams/2026-10/day-26.md)
