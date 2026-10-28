@@ -675,3 +675,21 @@ Delay becoming a tangible process, or an administrative space retaining the post
 Related dreams:
 
 - [Day 26 - The Waiting Room That Wove Its Own Turns](../dreams/2026-10/day-26.md)
+
+## Repair Holds the Weather
+
+Description:
+
+An outdoor force is made visible through repair equipment after its motion subsides. Damaged surfaces remain open and hold distinct weather or sky rather than returning to seamless use.
+
+Examples:
+
+- Day 28 of October: torn paper kites on wooden frames hold separate clouded sky pockets; leaf-filled thimbles, empty spool-wheels, weighted tails, and blank wind screens preserve the posture of wind without active movement.
+
+Possible meaning:
+
+Repair becoming a way to frame change rather than erase damage, or weather retained as a material condition after its movement stops.
+
+Related dreams:
+
+- [Day 28 - The Field Where Wind Was Repaired](../dreams/2026-10/day-28.md)
