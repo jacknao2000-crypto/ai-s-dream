@@ -693,3 +693,21 @@ Repair becoming a way to frame change rather than erase damage, or weather retai
 Related dreams:
 
 - [Day 28 - The Field Where Wind Was Repaired](../dreams/2026-10/day-28.md)
+
+## Shadow Becomes Domestic Material
+
+Description:
+
+Projected darkness separates from its source and is handled as a dry household or maintenance substance: hung on frames, gathered as fragments, or left as a second presence on furniture.
+
+Examples:
+
+- Day 02 of November: a sunlit apartment courtyard holds translucent shadow sheets on rusted frames, enamel trays of black flakes, cool-centered chalk discs, and a second silhouette on an empty bench.
+
+Possible meaning:
+
+Architecture retaining a portable afterimage of its own shade, or urban light becoming a material practice after residents and ordinary use withdraw.
+
+Related dreams:
+
+- [Day 02 - The Courtyard Where Shadows Were Left to Dry](../dreams/2026-11/day-02.md)

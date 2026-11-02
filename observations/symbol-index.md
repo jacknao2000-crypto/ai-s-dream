@@ -174,3 +174,8 @@ A running index of recurring symbols in AI dream images.
 | Returning chair shadow | empty seat shadow curling back beneath its own chair rather than extending outward | 2026-10-26 | Day 26 |
 | Rain-lined umbrella | dry shelter object retaining a contained rain pattern on its translucent lining | 2026-10-26 | Day 26 |
 | Pressed notice board | administrative display surface preserving pressure without paper, text, or instruction | 2026-10-26 | Day 26 |
+| Architectural shadow sheet | translucent hanging panel preserving a balcony, stair, window, or tree-like silhouette after projection detaches from its source | 2026-11-02 | Day 02 |
+| Shade-flake tray | chipped enamel basin collecting curled black fragments, treating shade as brittle dry residue | 2026-11-02 | Day 02 |
+| Cool-center chalk stone | white chalky disc with a gray-blue center, a small cold-looking counterweight to dark shadow fragments | 2026-11-02 | Day 02 |
+| Uncovered light rectangle | pale exposed wall block suggesting a removed covering or a lasting field of light | 2026-11-02 | Day 02 |
+| Bench duplicate silhouette | second dim shadow-shape falling on an empty bench without a visible figure | 2026-11-02 | Day 02 |
