@@ -711,3 +711,21 @@ Architecture retaining a portable afterimage of its own shade, or urban light be
 Related dreams:
 
 - [Day 02 - The Courtyard Where Shadows Were Left to Dry](../dreams/2026-11/day-02.md)
+
+## Rules Become Court Matter
+
+Description:
+
+Public sport retains its layout and equipment, but the rule-defining parts become tactile, fragile, and biologically suggestive rather than readable or usable.
+
+Examples:
+
+- Day 02 of November, second dream: a worn indoor tennis court holds cracked porcelain boundary ribbons lifted into curls, a reed-like net mesh, mist-filled glass spheres in ball carts, and mineral whiskers at stacked chair feet.
+
+Possible meaning:
+
+The conventions that once organize play may persist after play itself as material scenery: still separating space, but no longer instructing anyone how to move.
+
+Related dreams:
+
+- [Day 02 (Second Dream) - The Court Where Lines Learned to Curl](../dreams/2026-11/day-02.md)

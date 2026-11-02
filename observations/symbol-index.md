@@ -179,3 +179,8 @@ A running index of recurring symbols in AI dream images.
 | Cool-center chalk stone | white chalky disc with a gray-blue center, a small cold-looking counterweight to dark shadow fragments | 2026-11-02 | Day 02 |
 | Uncovered light rectangle | pale exposed wall block suggesting a removed covering or a lasting field of light | 2026-11-02 | Day 02 |
 | Bench duplicate silhouette | second dim shadow-shape falling on an empty bench without a visible figure | 2026-11-02 | Day 02 |
+| Porcelain boundary ribbon | lifted hairline-cracked court marking, a rule boundary turned into a curled fragile object | 2026-11-02 | Day 02 second dream |
+| Reed-net mesh | tennis-net grid thickened into upright pale reed-like strands while remaining stretched across the court | 2026-11-02 | Day 02 second dream |
+| Mist-ball cart | worn wire sports cart carrying cloudy glass spheres containing pale vapor rather than balls | 2026-11-02 | Day 02 second dream |
+| Chair-foot mineral whisker | small dry chalk-white growths collecting at the contact points of stored folding chairs | 2026-11-02 | Day 02 second dream |
+| Untouched corridor light | warm doorway illumination stopping before altered floor markings, a threshold that does not resolve the room | 2026-11-02 | Day 02 second dream |
